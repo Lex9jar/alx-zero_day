@@ -1,2 +1,2 @@
 First directory in this project
-Update made from GitHub.com
+Trying to understand how conflict between branches works
